@@ -1,10 +1,10 @@
-<div align="center" id="top"> 
+<!-- <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="poliban-tib" />
 
   &#xa0;
 
   <a href="https://poliban-tib.netlify.app">Demo</a>
-</div>
+</div> -->
 
 <h1 align="center">Poliban-tib</h1>
 
@@ -34,8 +34,6 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -46,13 +44,7 @@
 
 ## :dart: About ##
 
-Describe your project
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+This is the first Class B Informatics Engineering Website Landing Page
 
 ## :white_check_mark: Requirements ##
 
@@ -74,6 +66,6 @@ $ cd poliban-tib
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/emowbaik" target="_blank">Decy Alam Santoso</a>
+Made with :heart: by <a href="https://github.com/emowbaik" target="_blank">Decy Alam Santoso</a>&<a href="#" target="_blank">Hipni</a>
 
 &#xa0;
